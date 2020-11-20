@@ -1,0 +1,28 @@
+C:\Users\jcwajna\source\repos\Hangman\Hangman\bin\Debug\netcoreapp3.1\Hangman.exe
+C:\Users\jcwajna\source\repos\Hangman\Hangman\bin\Debug\netcoreapp3.1\Hangman.deps.json
+C:\Users\jcwajna\source\repos\Hangman\Hangman\bin\Debug\netcoreapp3.1\Hangman.runtimeconfig.json
+C:\Users\jcwajna\source\repos\Hangman\Hangman\bin\Debug\netcoreapp3.1\Hangman.runtimeconfig.dev.json
+C:\Users\jcwajna\source\repos\Hangman\Hangman\bin\Debug\netcoreapp3.1\Hangman.dll
+C:\Users\jcwajna\source\repos\Hangman\Hangman\bin\Debug\netcoreapp3.1\Hangman.pdb
+C:\Users\jcwajna\source\repos\Hangman\Hangman\obj\Debug\netcoreapp3.1\Hangman.csproj.CoreCompileInputs.cache
+C:\Users\jcwajna\source\repos\Hangman\Hangman\obj\Debug\netcoreapp3.1\Hangman.AssemblyInfoInputs.cache
+C:\Users\jcwajna\source\repos\Hangman\Hangman\obj\Debug\netcoreapp3.1\Hangman.AssemblyInfo.cs
+C:\Users\jcwajna\source\repos\Hangman\Hangman\obj\Debug\netcoreapp3.1\Hangman.dll
+C:\Users\jcwajna\source\repos\Hangman\Hangman\obj\Debug\netcoreapp3.1\Hangman.pdb
+C:\Users\jcwajna\source\repos\Hangman\Hangman\obj\Debug\netcoreapp3.1\Hangman.genruntimeconfig.cache
+C:\Users\jcwajna\source\repos\Hangman\Hangman\bin\Debug\netcoreapp3.1\data\countries_and_capitals.txt
+C:\Users\jcwajna\source\repos\Hangman\Hangman\obj\Debug\netcoreapp3.1\Hangman.csprojAssemblyReference.cache
+C:\Users\wilkqqq\Downloads\Nowy folder\Hangman\Hangman\bin\Debug\netcoreapp3.1\Hangman.exe
+C:\Users\wilkqqq\Downloads\Nowy folder\Hangman\Hangman\bin\Debug\netcoreapp3.1\data\countries_and_capitals.txt
+C:\Users\wilkqqq\Downloads\Nowy folder\Hangman\Hangman\bin\Debug\netcoreapp3.1\Hangman.deps.json
+C:\Users\wilkqqq\Downloads\Nowy folder\Hangman\Hangman\bin\Debug\netcoreapp3.1\Hangman.runtimeconfig.json
+C:\Users\wilkqqq\Downloads\Nowy folder\Hangman\Hangman\bin\Debug\netcoreapp3.1\Hangman.runtimeconfig.dev.json
+C:\Users\wilkqqq\Downloads\Nowy folder\Hangman\Hangman\bin\Debug\netcoreapp3.1\Hangman.dll
+C:\Users\wilkqqq\Downloads\Nowy folder\Hangman\Hangman\bin\Debug\netcoreapp3.1\Hangman.pdb
+C:\Users\wilkqqq\Downloads\Nowy folder\Hangman\Hangman\obj\Debug\netcoreapp3.1\Hangman.csprojAssemblyReference.cache
+C:\Users\wilkqqq\Downloads\Nowy folder\Hangman\Hangman\obj\Debug\netcoreapp3.1\Hangman.AssemblyInfoInputs.cache
+C:\Users\wilkqqq\Downloads\Nowy folder\Hangman\Hangman\obj\Debug\netcoreapp3.1\Hangman.AssemblyInfo.cs
+C:\Users\wilkqqq\Downloads\Nowy folder\Hangman\Hangman\obj\Debug\netcoreapp3.1\Hangman.csproj.CoreCompileInputs.cache
+C:\Users\wilkqqq\Downloads\Nowy folder\Hangman\Hangman\obj\Debug\netcoreapp3.1\Hangman.dll
+C:\Users\wilkqqq\Downloads\Nowy folder\Hangman\Hangman\obj\Debug\netcoreapp3.1\Hangman.pdb
+C:\Users\wilkqqq\Downloads\Nowy folder\Hangman\Hangman\obj\Debug\netcoreapp3.1\Hangman.genruntimeconfig.cache
